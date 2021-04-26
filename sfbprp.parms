@@ -1,0 +1,5 @@
+# Parameters for the sfbprp program
+#
+# BackupBaseLocation = the location where the backups are located.
+#
+BackupBaseLocation = D:\TestBackup\@BU\
